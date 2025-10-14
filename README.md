@@ -14,6 +14,6 @@
 **JavaScript** – for calculator logic and interactivity
 
 ## How to View
-You can check out my **Simple Calculator** project by visiting ---. Feel free to explore the content and get in touch!
+You can check out my **Simple Calculator** project by visiting  https://batrick-reizon.github.io/simple-calculator/. Feel free to explore the content and get in touch!
 
 Thank you for visiting my udemy website!
