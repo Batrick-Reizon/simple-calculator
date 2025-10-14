@@ -9,9 +9,9 @@
 - **Clean and minimal** UI for a modern look
 
 ## Technologies Used
-**HTML** – for structure
-**CSS** – for styling and layout
-**JavaScript** – for calculator logic and interactivity
+- **HTML** – for structure
+- **CSS** – for styling and layout
+- **JavaScript** – for calculator logic and interactivity
 
 ## How to View
 You can check out my **Simple Calculator** project by visiting  https://batrick-reizon.github.io/simple-calculator/. Feel free to explore the content and get in touch!
